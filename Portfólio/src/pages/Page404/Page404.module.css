@@ -1,5 +1,6 @@
 .titulo2 {
-    padding-top: 2rem;
+    padding-top: 5rem;
+    font-size: 3rem;
 }
 
 .textos {
@@ -11,10 +12,11 @@
 
 .texto_grande, .texto_vermelho {
     font-size: 300px;
-    color: var(--red);
+    color: var(--primary);
     font-weight: bold;
 }
 
 .texto_vermelho {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
+    padding-bottom: 5rem;
 }

@@ -1,6 +1,6 @@
 .home {
     width: 100%;
-    min-height: 90vh;
+    min-height: 75vh;
 
     display: flex;
     align-items: center;
@@ -8,23 +8,24 @@
 }
 
 .home img {
-    height: 270px;
+    height: 350px;
 }
 
 .home p {
-    font-size: 3rem; /* 48px */
+    font-size: 4.5rem; /* 48px */
     font-weight: bold;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: 8px;
 }
 
 .home span {
-    color: var(--red);
+    color: var(--secondary);
 }
 
 .btn {
-    width: 250px;
-    height: 50px;
-    font-size: 1.125rem;
+    width: 450px;
+    height: 60px;
+    font-size: 1.5rem;
     font-weight: bold;
     border: 0;
     border-radius: 8px;
@@ -33,13 +34,15 @@
     align-items: center;
     justify-content: center;
     text-decoration: none;
+    letter-spacing: 5px;
 }
 
 .btn_red {
-    background-color: var(--red);
+    background-color: var(--secondary);
     color: var(--white);
 }
 
 .btn_red:hover {
+    transition: .2s;
     background-color: var(--primary);
 }

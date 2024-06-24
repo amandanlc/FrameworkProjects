@@ -12,12 +12,13 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   
-  --primary: #16213E;
-  --secondary: #0F3460;
-  --terceary: #533483;
-  --red: #E94560;
+  --primary: #4b2477;
+  --secondary: #a024d1;
+  --terceary: #343c83;
+  --red: #eacaf7;
   --soft-white: #f1f1f1;
   --white: #fefefe;
   --black: #111;
   --gray: #222222;
+  --lightpurple: #eacaf7;
 }
