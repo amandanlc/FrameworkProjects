@@ -1,0 +1,46 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  }
+
+body{
+    margin: 0;
+    text-align: center;
+    background-color: rgb(29, 0, 83);
+    color: rgb(157, 158, 255);
+}
+
+h1{
+    font-size: 4em;
+    margin: 35px 0px;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+tr{
+    display: flex;
+    align-items: center;
+    font-size: 1.2em;
+    color: rgb(124, 126, 233);
+}
+
+td{
+    width: 100px;
+    margin: 10px 80px;
+}
+
+img{
+    width: 100px;
+    margin: 0;
+    padding: 0;
+}
+
+.titulos{
+    font-size: 1.5em;
+    font-weight: bolder;
+    color: rgb(196, 197, 255);
+}
