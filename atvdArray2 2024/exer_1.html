@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercício 1</title>
+</head>
+<body>
+    <script>
+        var vet1 = [], vet2=[], x = 0
+
+        
+
+            /*for(x=0;x<=3;x++){
+            vet1[x]=parseInt(prompt("Digite um número"))
+            vet2[x]=parseInt(prompt("Digite outro número"))
+
+            //vet1.push()
+            
+            }*/
+
+
+            /*var num = parseInt(prompt("digite o numero"))
+
+            vet1.push(num);*/
+        
+        /*    while(x<=3){
+            vet1.push(parseInt(prompt("digite o numero")))
+            vet2.push(parseInt(prompt("digite o numero")))
+            x++
+        }
+
+        //concatenar
+        var vetNum = vet1.concat(vet2)
+
+      
+
+
+
+
+
+        console.log(vet1,vet2)
+        console.log(vetNum)*/
+   
+       vetNomes =["sandra","Zenaide","Amanda"]
+
+           vetNomes.sort()
+
+
+        
+
+
+       // console.log("Ordenado"+vetNum)
+
+      
+      
+      console.log("Ordenado nomes "+vetNomes)
+
+          
+       
+       
+
+        //ordem crescente
+        vetNum.sort(function(a,b){
+
+           // return(a-b)
+            if(a>b)return 1;
+            if(a<b)return -1;
+            return 0;
+        })
+           console.log(vetNum)
+        //excluir maior e menor
+        vetNum.shift();
+        vetNum.pop()
+
+        console.log(vetNum)
+    </script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  text-align: center;
+}
+
+a {
+  font-size: 1.7em;
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 6em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 15px;
+  border: 2px solid transparent;
+  padding: .3em 2em;
+  font-size: 1.7em;
+  font-weight: 500;
+  font-family: inherit;
+  line-height: 1;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  color: #cfd1ff;
+  margin-top: 20px;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus, button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+div{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+label{
+  font-size: 2em;
+}
+
+input{
+  border-radius: 15px;
+  padding: 10px;
+  font-size: 1.3em;
+  width: 100%; height: auto;
+  padding: 2px 10px;
+  line-height: 1;
+}
+
+select {
+  border-radius: 15px;
+  width: 100%;
+  font-size: 1.3em;
+  width: 100%; height: auto;
+  padding: 2px 10px;
+  line-height: 1;
+}
+
+p{
+  font-size: 1.8em;
+}
+
+.btnEC{
+  border-radius: 15px;
+  border: 2px solid transparent;
+  padding: .3em 2em;
+  font-size: 1.7em;
+  font-weight: 500;
+  font-family: inherit;
+  line-height: 1;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  color: #cfd1ff;
+  margin-top: 20px;
+  transition: border-color 0.25s;
+}
+  
+.btnEC:hover {
+  border-color: #646cff;
+}
+  
+button:focus, button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  gap: 5%;
+  list-style: none;
+}
+
+.flex li{
+  background-color: #1a1a1a;
+  color: #cfd1ff;
+  border-radius: 15px;
+  padding: .3em 2em;
+  transition: border-color 0.25s;
+}
+
+.flex li:hover{
+  border: 2px solid transparent;
+  background-color: #cfd1ff;
+  color: #1a1a1a;
+  border-color: #646cff;
+}

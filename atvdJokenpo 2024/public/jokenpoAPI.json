@@ -1,0 +1,14 @@
+[
+    {
+        "name": "rock",
+        "svg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq-UqySlqoNmm475GQwJid4YcAFghhSmg5DeA4rUp98bpcc0i3"
+    },
+    {
+        "name": "paper",
+        "svg": "https://static.vecteezy.com/ti/vetor-gratis/p1/35600552-palma-mao-icone-preenchidas-plano-sinal-solido-cor-eps-gratis-vetor.jpg"
+    },
+    {
+        "name": "scissors",
+        "svg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTV2wOqoUCQUnVKn_KBbOcZSvyOYXAFDEvUwOHTSmlDdUgltMS9"
+    }
+]

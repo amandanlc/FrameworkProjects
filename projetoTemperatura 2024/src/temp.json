@@ -1,0 +1,183 @@
+[
+    {
+      "nome": "São Paulo",
+      "temperatura": 25.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "Rio de Janeiro",
+      "temperatura": 28.0,
+      "condicoes": "Parcialmente nublado",
+      "icone": "02d"
+    },
+    {
+      "nome": "Belo Horizonte",
+      "temperatura": 23.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Salvador",
+      "temperatura": 30.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "Brasília",
+      "temperatura": 22.0,
+      "condicoes": "Claro",
+      "icone": "01d"
+    },
+    {
+      "nome": "Fortaleza",
+      "temperatura": 29.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "Curitiba",
+      "temperatura": 20.0,
+      "condicoes": "Chuvoso",
+      "icone": "09d"
+    },
+    {
+      "nome": "Manaus",
+      "temperatura": 27.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Recife",
+      "temperatura": 31.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "Porto Alegre",
+      "temperatura": 18.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Goiânia",
+      "temperatura": 24.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "São Luís",
+      "temperatura": 28.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "Maceió",
+      "temperatura": 30.0,
+      "condicoes": "Parcialmente nublado",
+      "icone": "02d"
+    },
+    {
+      "nome": "Belém",
+      "temperatura": 26.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "Natal",
+      "temperatura": 28.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "João Pessoa",
+      "temperatura": 29.0,
+      "condicoes": "Parcialmente nublado",
+      "icone": "02d"
+    },
+    {
+      "nome": "Campo Grande",
+      "temperatura": 23.0,
+      "condicoes": "Claro",
+      "icone": "01d"
+    },
+    {
+      "nome": "Cuiabá",
+      "temperatura": 35.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "Teresina",
+      "temperatura": 32.0,
+      "condicoes": "Parcialmente nublado",
+      "icone": "02d"
+    },
+    {
+      "nome": "Aracaju",
+      "temperatura": 31.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "São José dos Campos",
+      "temperatura": 22.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Uberlândia",
+      "temperatura": 24.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "Bauru",
+      "temperatura": 27.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Santos",
+      "temperatura": 26.0,
+      "condicoes": "Chuvoso",
+      "icone": "10d"
+    },
+    {
+      "nome": "Volta Redonda",
+      "temperatura": 25.0,
+      "condicoes": "Claro",
+      "icone": "01d"
+    },
+    {
+      "nome": "Ribeirão Preto",
+      "temperatura": 28.0,
+      "condicoes": "Ensolarado",
+      "icone": "01d"
+    },
+    {
+      "nome": "Maringá",
+      "temperatura": 22.0,
+      "condicoes": "Chuvoso",
+      "icone": "09d"
+    },
+    {
+      "nome": "Londrina",
+      "temperatura": 21.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Caxias do Sul",
+      "temperatura": 18.0,
+      "condicoes": "Nublado",
+      "icone": "04d"
+    },
+    {
+      "nome": "Joinville",
+      "temperatura": 19.0,
+      "condicoes": "Chuvoso",
+      "icone": "09d"
+    }
+  ]
+  

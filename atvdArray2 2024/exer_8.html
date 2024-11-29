@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercício 8</title>
+</head>
+<body>
+    <script>
+        const funcionarios = [{
+            Nome: 'Han Solo',
+            Departamento: 'Financeiro',
+            Salario: 100
+            },{
+            Nome: 'Luke',
+            Departamento: 'Financeiro',
+            Salario: 2000
+            },{
+            Nome:'Ben',
+            Departamento: 'Marketing',
+            Salario: 2000
+            },{
+            Nome: 'Leia',
+            Departamento: 'Marketing',
+            Salario: 10000
+            },{
+            Nome: 'Rey',
+            Departamento: 'Financeiro',
+            Salario: 1000
+            }] 
+
+            var totalSalario = funcionarios
+            .filter(funcionarios => (funcionarios.Departamento==='Financeiro'))//LETRA A
+            .map(item => item.Salario *= 1.5)//LETRA B
+           .reduce((item,totalSalario)=> item+totalSalario)//letrC
+            console.log(totalSalario)
+
+
+
+            vetor=[2,3,4]
+             soma =0;
+            for(i=0;i<vetor.length;i++){
+                 soma=soma+vetor[i];
+            }
+
+    </script>
+</body>
+</html>
